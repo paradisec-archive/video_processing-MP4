@@ -34,6 +34,7 @@ To view the FFmpeg manual in the terminal window, type in:
 For further help using FFmpeg, take a look at the following sites:
 
 [FFmpeg](https://ffmpeg.org/ffmpeg.html)
+
 [ffmprovisor](https://amiaopensource.github.io/ffmprovisr/)
 
 
