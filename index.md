@@ -21,8 +21,20 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 ``` brew doctor```
 
-3. Install FFmpeg
+3. Install [FFmpeg](https://ffmpeg.org/)
+
 ```brew install ffmpeg```
+
+To test if you have installed FFmpeg correctly, just type ffmpeg and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image to the right.
+
+To view the FFmpeg manual in the terminal window, type in:
+
+```man ffmpeg```
+
+For further help using FFmpeg, take a look at the following sites:
+
+[FFmpeg](https://ffmpeg.org/ffmpeg.html)
+[ffmprovisor](https://amiaopensource.github.io/ffmprovisr/)
 
 
 ### Navigate via terminal to your working directory
